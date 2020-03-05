@@ -1,1 +1,3 @@
 First entered text
+
+Text entered in git UI
