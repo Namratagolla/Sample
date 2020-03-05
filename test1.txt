@@ -5,3 +5,4 @@ Text Entered in local
 =======
 Text entered in git UI
 >>>>>>> fbd1ae69d7947d74c307433c7843d9c29c6e4e94
+Local changes 
